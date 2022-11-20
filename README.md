@@ -494,18 +494,6 @@
 |문제 4 - [1740](https://www.acmicpc.net/problem/1740) |  |  | 🌠 |
 
 
-### Extra
-| To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------ | ------ |
-|1859.백만 장자 프로젝트|  | :paw_prints: |  |
-|1204.최빈수 구하기|  | :paw_prints: |  |
-|1954.달팽이 숫자|  | :paw_prints: |  |
-
-
-</div>
-</details>
-
-
 ### 41주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -520,4 +508,25 @@
 |문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | 🌻 |  |
 |문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  | 🌻 |  |
 |문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: |  |
+
+
+### Extra
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|1859.백만 장자 프로젝트|  | :paw_prints: |  |
+|1204.최빈수 구하기|  | :paw_prints: |  |
+|1954.달팽이 숫자|  | :paw_prints: |  |
+
+
+</div>
+</details>
+
+
+### 43주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------- | ------ |
+|문제 1 - [135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808) |  |  |  |
+|문제 2 - [133499](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  |  |  |
+|문제 3 - [131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |  |  |  |
 |섹션 9. Node JS 구성하기|  |  |  |
+
