@@ -511,13 +511,13 @@
 | ------- | ------- | ------ | ------ |
 |문제 1 - [13414](https://www.acmicpc.net/problem/13414) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [16114](https://www.acmicpc.net/problem/16114) |  |  |  |
-|문제 3 - [17479](https://www.acmicpc.net/problem/17479) | 🍀 |  |  |
+|문제 3 - [17479](https://www.acmicpc.net/problem/17479) | 🍀 | 🌻 |  |
 
 
 ### 42주차
 | To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------ | ------ |
-|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  |  |  |
-|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |  |  |
-|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  |  |  |
+| ------- | ------- | ------- | ------ |
+|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | 🌻 |  |
+|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  | 🌻 |  |
+|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: |  |
 |섹션 9. Node JS 구성하기|  |  |  |
