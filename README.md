@@ -505,9 +505,9 @@
 ### 42주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | 🌻 |  |
-|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  | 🌻 |  |
-|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: |  |
+|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | 🌻 | 🌠 |
+|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  | 🌻 | 🌠 |
+|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: | 🌠 |
 
 
 ### Extra
