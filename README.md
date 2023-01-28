@@ -505,8 +505,8 @@
 ### 42주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  | 🌻 | 🌠 |
-|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  | 🌻 | 🌠 |
+|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 🍀 | 🌻 | 🌠 |
+|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | 🍀 | 🌻 | 🌠 |
 |문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: | 🌠 |
 
 
@@ -525,8 +525,8 @@
 ### 43주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808) |  |  | 🌠 |
-|문제 2 - [133499](https://school.programmers.co.kr/learn/courses/30/lessons/133499) |  |  | 🌠 |
-|문제 3 - [131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705) |  |  |  |
+|문제 1 - [135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | 🍀 |  | 🌠 |
+|문제 2 - [133499](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | 🍀 |  | 🌠 |
+|문제 3 - [131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | 🍀 |  |  |
 |섹션 9. Node JS 구성하기|  |  |  |
 
