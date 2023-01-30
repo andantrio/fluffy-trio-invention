@@ -515,7 +515,7 @@
 | ------- | ------- | ------- | ------ |
 |문제 1 - [135808](https://school.programmers.co.kr/learn/courses/30/lessons/135808) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [133499](https://school.programmers.co.kr/learn/courses/30/lessons/133499) | 🍀 | 🌻 | 🌠 |
-|문제 3 - [131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | 🍀 | 🌻 |  |
+|문제 3 - [131705](https://school.programmers.co.kr/learn/courses/30/lessons/131705) | 🍀 | 🌻 | 🌠 |
 |섹션 9. Node JS 구성하기|  |  |  |
 
 
@@ -534,6 +534,6 @@
 ### 44주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [134240](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  |  |  |
+|문제 1 - [134240](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  |  | ❄️ |
 |문제 2 - [77484](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |  |  |  |
 |문제 3 - [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |  |  |  |
