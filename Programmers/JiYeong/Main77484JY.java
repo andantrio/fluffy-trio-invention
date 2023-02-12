@@ -13,7 +13,7 @@ public class Main77484JY {
 
     public static int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
-        List<Integer> list = Arrays.stream(win_nums).boxed().collect(Collectors.toList());;
+        List<Integer> list = Arrays.stream(win_nums).boxed().collect(Collectors.toList());
         int sameCnt = 0;
         int zeroCnt = 0;
 
@@ -25,7 +25,6 @@ public class Main77484JY {
 
             if (list.contains(i)) {
                 sameCnt++;
-                continue;
             }
         }
 
