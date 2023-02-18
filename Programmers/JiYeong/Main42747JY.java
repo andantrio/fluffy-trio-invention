@@ -3,7 +3,7 @@ package JiYeong;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Main42742JY {
+public class Main42747JY {
     public static void main(String[] args) throws Exception {
         int[] arr = {3,0,6,1,5};
         System.out.println(solution(arr));
