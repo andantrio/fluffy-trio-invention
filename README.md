@@ -536,4 +536,4 @@
 | ------- | ------- | ------- | ------ |
 |문제 1 - [134240](https://school.programmers.co.kr/learn/courses/30/lessons/134240) |  | 🌻 | ❄️ |
 |문제 2 - [77484](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |  | 🌻 | ❄️ |
-|문제 3 - [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |  | 🌻 |  |
+|문제 3 - [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) |  | 🌻 | ❄ |
