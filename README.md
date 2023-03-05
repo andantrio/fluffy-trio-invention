@@ -542,6 +542,6 @@
 ### 45주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 🍀 |  |  |
-|문제 2 - [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  |  |  |
+|문제 1 - [12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 🍀 | 🌻 |  |
+|문제 2 - [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  | 🌻 |  |
 |문제 3 - [157342](https://school.programmers.co.kr/learn/courses/30/lessons/157342) |  |  |  |
