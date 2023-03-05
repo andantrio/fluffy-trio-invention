@@ -527,6 +527,13 @@
 |문제 3 - [142085](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | 🍀 | 🌻 | ❄️ |
 
 
+### 45주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------- | ------ |
+|문제 1 - [12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 🍀 | 🌻 |  |
+|문제 2 - [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  | 🌻 |  |
+
+
 ### Extra
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -539,9 +546,8 @@
 </details>
 
 
-### 45주차
+### 46주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- | ------ |
-|문제 1 - [12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 🍀 | 🌻 |  |
-|문제 2 - [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  | 🌻 |  |
-|문제 3 - [157342](https://school.programmers.co.kr/learn/courses/30/lessons/157342) |  |  |  |
+|문제 1 - [67256](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |  |  |  |
+|문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) |  |  |  |
