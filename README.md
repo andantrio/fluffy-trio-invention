@@ -548,6 +548,6 @@
 
 ### 46주차
 | To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------- | ------ |
-|문제 1 - [67256](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | 🍀 | 🌻 |  |
-|문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 🍀 | 🌻 |  |
+| ------- | ------- | ------- |--|
+|문제 1 - [67256](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | 🍀 | 🌻 | ⚡️|
+|문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 🍀 | 🌻 | ⚡️|
