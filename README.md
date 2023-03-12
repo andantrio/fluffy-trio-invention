@@ -507,7 +507,7 @@
 | ------- | ------- | ------- | ------ |
 |문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | 🍀 | 🌻 | 🌠 |
-|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | :ghost: | 🌠 |
+|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  | 👻 | 🌠 |
 
 
 ### 43주차
@@ -534,6 +534,13 @@
 |문제 2 - [131127](https://school.programmers.co.kr/learn/courses/30/lessons/131127) |  | 🌻 |  |
 
 
+### 46주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------- |--|
+|문제 1 - [67256](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | 🍀 | 🌻 | ⚡️ |
+|문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 🍀 | 🌻 |  |
+
+
 ### Extra
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -545,9 +552,8 @@
 </div>
 </details>
 
-
-### 46주차
+### 47주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- |--|
-|문제 1 - [67256](https://school.programmers.co.kr/learn/courses/30/lessons/67256) | 🍀 | 🌻 | ⚡️|
-|문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 🍀 | 🌻 | ⚡️|
+|문제 1 - [92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |  |  |
+|문제 2 - [15649](https://www.acmicpc.net/problem/15649) |  |  |  |
