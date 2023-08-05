@@ -541,6 +541,13 @@
 |문제 2 - [92341](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | 🍀 | 🌻 |  |
 
 
+### 47주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------- |----|
+|문제 1 - [92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |  |  |
+|문제 2 - [15649](https://www.acmicpc.net/problem/15649) | 🍀 |  | 🍔 |
+
+
 ### Extra
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -552,8 +559,9 @@
 </div>
 </details>
 
-### 47주차
+### 48주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------- |----|
-|문제 1 - [92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |  |    |
-|문제 2 - [15649](https://www.acmicpc.net/problem/15649) | 🍀 |  | 🍔 |
+|문제 1 - [553](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) |  |  |  |
+|문제 2 - [603](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/) |  |  |  |
+|문제 3 - [560](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/) |  |  |  |
