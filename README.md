@@ -554,6 +554,6 @@
 
 ### 47주차
 | To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------- |--|
-|문제 1 - [92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |  |  |
-|문제 2 - [15649](https://www.acmicpc.net/problem/15649) |  |  |  |
+| ------- | ------- | ------- |----|
+|문제 1 - [92342](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |  |  |    |
+|문제 2 - [15649](https://www.acmicpc.net/problem/15649) |  |  | 🍔 |
