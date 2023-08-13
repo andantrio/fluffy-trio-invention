@@ -565,3 +565,11 @@
 |문제 1 - [553](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) |  |  |  |
 |문제 2 - [603](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/) |  |  |  |
 |문제 3 - [560](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/560/) |  |  |  |
+
+
+### 49주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------- |----|
+|문제 1 - [546](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) |  |  |  |
+|문제 2 - [769](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) |  |  |  |
+|문제 3 - [770](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/) |  |  |  |
